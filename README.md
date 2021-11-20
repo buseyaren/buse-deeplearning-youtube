@@ -1,5 +1,7 @@
 ## Derin Öğrenme ve Sıfırdan Proje Geliştirme
 
+![Thumbnail](cover.png "deep learning")
+
 Bu repo, Türk Geliştirici Eğitimleri Arşivi için hazırlanmış ve  1 saatlik video içeriğimin kaynaklarını içermektedir. 
 
 Bu videoda, Python programlama dilinde derin öğrenme kütüphanelerinden TensorFlow ve Keras ile bir sinir ağı inşa edebiliyorken aynı zamanda bir derin öğrenme projesinin sıfırdan planlama ve geliştirme aşamalarını öğreniyor olacağız.
