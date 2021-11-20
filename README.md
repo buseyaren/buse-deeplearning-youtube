@@ -18,6 +18,6 @@ Anlatım sırasında kullanılan sunum ve anlatım, **Derin Öğrenme ve Sıfır
 * Karmaşıklık matrisi
 konularını içeriyor.
 
-Sunum sırasında kullandığım içeriğe ulaşmak için;
+Sunum sırasında kullandığım [sunum içeriği](https://github.com/buseyaren/buse-deeplearning-youtube/blob/main/Derin%20Öğrenme%20ve%20Sıfırdan%20Proje%20Geliştirme_sunum.pdf)ne göz atabilirsiniz.
 
-Sunumda kullanılan not defteri örneği https://www.kaggle.com/shanekonaung/boston-housing-price-dataset-with-keras içeriğinden alınmıştır.
+Sunumda kullanılan not defteri örneği, [Boston gayrimenkul fiyat tahmini](https://www.kaggle.com/shanekonaung/boston-housing-price-dataset-with-keras) içeriğinden alınmıştır.
